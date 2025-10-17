@@ -15,4 +15,3 @@ Um projeto desenvolvido com **React** e **Firebase**, simulando um mini blog com
 **Backend (via Firebase)**
 - Firebase Authentication (login e cadastro)
 - Firestore Database (armazenamento de posts)
-- Firebase Hosting (deploy opcional)
